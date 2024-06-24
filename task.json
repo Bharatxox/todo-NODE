@@ -1,0 +1,22 @@
+[
+    {
+        "description": "complete my home work",
+        "completed": true
+    },
+    {
+        "description": "complete the todo list assigment ",
+        "completed": false
+    },
+    {
+        "description": "complete the leet code question",
+        "completed": true
+    },
+    {
+        "description": "go gym",
+        "completed": false
+    },
+    {
+        "description": "drink enough water",
+        "completed": false
+    }
+]
